@@ -6,6 +6,7 @@ In this project, I have created an end-to-end project on the sentiment analysis 
 https://movie-review-234.el.r.appspot.com/
 
 ## Demo
+![Demo video](https://user-images.githubusercontent.com/81810275/132949830-e7d271a4-fb30-480c-a657-94f752f66799.gif)
 
 ## Technical aspect
 * Python 3.9
