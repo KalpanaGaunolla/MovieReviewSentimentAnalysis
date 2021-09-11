@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <div class="warpper fl">
+        <div class="main">
+            <div class="head">
+<div style="background-color:#245f22ad;color:white;padding:20px;">
+
+<Center> <h1 style="color:white">Movie Review Sentiment Analysis</h1> <br></center>
+</div> 
+<div class="form fl">
+                <form action="/predict" method="POST">
+                    <p class="name">
+<Center><b> </b></p>
+<input type="text" name="review" placeholder="Enter your review here" id="review" class="name-inp" style="width:500px;height:300px;"></p>
+<p class="name"> <br></center>
+<Center><b><input type="submit" name="sb" value="Predict" class="sub"></p> <br></b></center>
+</form>
+
+<Center> <h2 style="color:#245f22ad"> {{prediction_text}}</h2></center>
+
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
