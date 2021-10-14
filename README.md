@@ -1,6 +1,6 @@
 # Movie Review Sentiment Analysis
 
-In this project, I have created an end-to-end project on the sentiment analysis based on Movie reviews as a proof of concept. The main objective is to predict weather the review is positive or negative with the help of Natural Language Process and Machine Learning. Created API using Flask framework and deployed it on Google Cloud Platform.
+In this project, I have created an end-to-end project on the sentiment analysis based on Movie reviews as a proof of concept. The main objective is to predict weather the review is positive or negative with the help of Natural Language Processing and Machine Learning. Created API using Flask framework and deployed it on Google Cloud Platform.
 
 ## Website link
 https://movie-review-234.el.r.appspot.com/
